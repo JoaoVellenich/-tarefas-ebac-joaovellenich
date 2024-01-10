@@ -1,0 +1,15 @@
+INÍCIO 
+
+ 	1. Abrir os olhos
+ 	2. Se estiver cuberto
+   	  	1. Pegar a ponta da coberta
+     		2. Jogar a ponta da coberta para o outro lado
+     		3. Pegar a ponta do lençol
+     		4. Jogar o lenco para o outro lado
+ 	3. Tirar a perna direita da cama
+ 	4. Colocar o pé no chão
+ 	5. Sentar na beira da cama
+ 	6. Colocar ambos os pés no chão
+ 	7. Levantar para ficar em pé
+
+FIM
