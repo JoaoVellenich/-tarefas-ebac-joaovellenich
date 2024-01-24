@@ -1,0 +1,10 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+    public static void main(String[] args) {
+        int valor = 2;
+        System.out.println("Valor Primitivo " + valor);
+        Integer valorWrapper = Integer.valueOf(valor);
+        System.out.println("Valor Wrapper " + valorWrapper);
+    }
+}
